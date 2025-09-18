@@ -152,3 +152,4 @@ LOGS/
 Pendencias.txt
 *.xlsx
 *.xls
+.gitignore

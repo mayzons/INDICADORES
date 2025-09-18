@@ -3,6 +3,7 @@ import pandas as pd
 
 # Caminho da pasta onde está o consolidado
 pasta_base = r"C:\proj_pessoal\INDICADORES"
+# Nome do arquivo consolidado
 arquivo_entrada = os.path.join(pasta_base, "consolidado.xlsx")
 
 # Lê o arquivo consolidado
